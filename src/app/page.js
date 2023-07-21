@@ -9,7 +9,6 @@ export default function Home() {
       <Header/>
       <MainComponent/>
       <Footer/>
-      <div>fun fact</div>
     </div>
    </div>
   )
